@@ -5,5 +5,4 @@ const config = {
   API_ACCESS_TOKEN: process.env.REACT_APP_API_ACCESS_TOKEN,
   RECAPTCHA_KEY: process.env.REACT_APP_RECAPTCHA_KEY,
 };
-
 export default config;
